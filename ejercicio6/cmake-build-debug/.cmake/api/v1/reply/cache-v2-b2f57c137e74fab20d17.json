@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Project"
+			"value" : "ejercicio-clase-3"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1300,6 +1300,42 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "TRUE"
+		},
+		{
+			"name" : "ejercicio-clase-3_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/nicol/OneDrive/Documents/GitHub/ejercicio-clase-3/ejercicio6/cmake-build-debug"
+		},
+		{
+			"name" : "ejercicio-clase-3_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "ejercicio-clase-3_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/nicol/OneDrive/Documents/GitHub/ejercicio-clase-3/ejercicio6"
 		}
 	],
 	"kind" : "cache",
